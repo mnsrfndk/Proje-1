@@ -1,5 +1,7 @@
 Proje 1
+
 [Patika.dev](https://www.patika.dev/tr)
+
 1.[22,27,16,2,18,6] dizisinin Insertion Sort'a göre aşamaları:
 
 	[2,27,16,22,18,6]
