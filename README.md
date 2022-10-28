@@ -1,8 +1,8 @@
 Proje 1
 
-[22,27,16,2,18,6] dizisinin Insertion Sort'a göre aşamaları:
+1.[22,27,16,2,18,6] dizisinin Insertion Sort'a göre aşamaları:
 
-1.[2,27,16,22,18,6]
+	[2,27,16,22,18,6]
 	[2,6,27,16,22,18]
 	[2,6,16,27,22,18]
 	[2,6,16,18,27,22]
