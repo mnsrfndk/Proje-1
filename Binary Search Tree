@@ -1,1 +1,14 @@
+Proje-3
 
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
+
+root 7'dir.
+5 solunda bulunur.
+1 de 5'in solunda bulunur.
+8 root'dan büyük olduğu için sağında bulunur.
+3 1'in sağında bulunur
+6 5'in sağındadır.
+0 1'in solundadır.
+9 8'in sağındadır.
+4 3'ün sağındadır.
+2 3'ün solundadır
